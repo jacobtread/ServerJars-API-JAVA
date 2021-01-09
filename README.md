@@ -3,6 +3,9 @@
 # ServerJars-API
 The Java API for ServerJars
 
+# Important Announcement
+Any Issues will be ignored. The Songoda company screwed me over and I will no longer be writing code for them however I will leave this code up for anyone who wishes to modify it. 
+
 **Required Libraries:**
 
 - [Gson](https://github.com/google/gson)
